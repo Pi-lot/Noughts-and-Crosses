@@ -1,0 +1,12 @@
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Noughts and Crosses Windows Game.exe.config
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Tic Tac Toe Windows Game.csprojResolveAssemblyReference.cache
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Tic_Tac_Toe_Windows_Game.Form1.resources
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Noughts_and_Crosses_Windows_Game.Properties.Resources.resources
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Tic Tac Toe Windows Game.csproj.GenerateResource.Cache
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Resources\fail.mp3
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Resources\jaws_theme.mp3
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Resources\Sad_Trombone.mp3
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Noughts and Crosses Windows Game.exe
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\obj\Debug\Noughts and Crosses Windows Game.pdb
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Noughts and Crosses Windows Game.exe
+C:\Users\bryce\Source\Workspaces\Workspace2\Noughts and Crosses\Noughts and Crosses Windows Game\Tic Tac Toe Windows Game\bin\Debug\Noughts and Crosses Windows Game.pdb
